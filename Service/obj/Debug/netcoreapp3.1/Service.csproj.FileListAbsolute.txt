@@ -1,0 +1,12 @@
+C:\Users\cancara\source\repos\PersonalData\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\cancara\source\repos\PersonalData\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\cancara\source\repos\PersonalData\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\cancara\source\repos\PersonalData\Service\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cancara\source\repos\PersonalData\Service\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\cancara\source\repos\PersonalData\Service\obj\Debug\netcoreapp3.1\Service.pdb

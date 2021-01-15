@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cancara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cancara\\.nuget\\packages"
+    ]
+  }
+}

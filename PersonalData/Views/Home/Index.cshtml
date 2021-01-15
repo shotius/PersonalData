@@ -1,0 +1,31 @@
+﻿@model PersonListVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">სახელი</th>
+            <th scope="col">გვარი</th>
+            <th scope="col">სქესი</th>
+            <th scope="col">ელ.ფოსტა</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Persons)
+        {
+        <tr>
+            <th>@item.FirstName</th>
+            <td>@item.LastName</td>
+            <td>@item.Gender</td>
+            <td>@item.Mail</td>
+            <td>
+                <button type="button" class="btn btn-success">დეტალურად </button>
+            </td>
+        </tr>
+        }
+
+    </tbody>
+</table>
